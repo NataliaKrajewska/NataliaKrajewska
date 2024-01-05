@@ -4,10 +4,14 @@
 
 - <b>SQL</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Superstore Sales Dashboard in Tableau</b>
+- <b>Tableau</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ 
+
+<h2>📄 Certifications:</h2>
+
+  -[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/GEP2QDR5YRTP)
+
 
 <h2> 🤳 Connect with me:</h2>
 
