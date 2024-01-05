@@ -1,4 +1,8 @@
 <h1>Hi, I'm Natalia! <br/><a href="https://www.linkedin.com/in/natalia-krajewska-997685290/">Aspiring Data Analyst</a></h1>
+Explore my portfolio to witness my progression as a Data Analyst and discover projects that reflect my dedication to mastering data cleaning, analysis, and visualization.
+
+
+#
 
 <h2>👨‍💻 My Projects:</h2>
 
@@ -6,12 +10,14 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Tableau</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
- 
+
+ #
 
 <h2>📄 Certifications:</h2>
 
   - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/GEP2QDR5YRTP)
 
+#
 
 <h2> 🤳 Connect with me:</h2>
 
