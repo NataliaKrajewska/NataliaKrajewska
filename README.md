@@ -10,7 +10,7 @@
 
 <h2>📄 Certifications:</h2>
 
-  -[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/GEP2QDR5YRTP)
+  - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/GEP2QDR5YRTP)
 
 
 <h2> 🤳 Connect with me:</h2>
