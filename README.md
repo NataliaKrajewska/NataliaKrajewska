@@ -6,9 +6,9 @@ Explore my portfolio to witness my progression as a Data Analyst and discover pr
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>SQL</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Data Cleaning in SQL](https://github.com/NataliaKrajewska/Cleaning-Data-in-SQL)
 - <b>Tableau</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Superstore Sales Dashboard](https://public.tableau.com/app/profile/natalia.krajewska/viz/OnlineStoreSalesDashboard_17036211347800/Dashboard1)
 
 
 <h2>📄 Certifications:</h2>
