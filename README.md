@@ -3,8 +3,8 @@ Explore my portfolio to witness my progression as a Data Analyst and discover pr
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>[Nashville Housing Analysis](https://github.com/NataliaKrajewska/Cleaning-Data-in-SQL)</b>
-- <b>[Superstore Sales Dashboard](https://public.tableau.com/app/profile/natalia.krajewska/viz/OnlineStoreSalesDashboard_17036211347800/Dashboard1)</b>
+- [Nashville Housing Analysis](https://github.com/NataliaKrajewska/Cleaning-Data-in-SQL)
+- [Superstore Sales Dashboard](https://public.tableau.com/app/profile/natalia.krajewska/viz/OnlineStoreSalesDashboard_17036211347800/Dashboard1)
 
 
 <h2>📄 Certifications:</h2>
