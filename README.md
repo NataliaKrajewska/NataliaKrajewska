@@ -4,7 +4,7 @@ Explore my portfolio to witness my progression as a Data Analyst and discover pr
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Excel</b>
-  - [Road Accidents](https://github.com/NataliaKrajewska/Nashville_Housing)
+  - [Road Accidents](https://github.com/NataliaKrajewska/Road-Accidents)
 - <b>Data Cleaning and Exploratory Analysis in SQL</b>
   - [Nashville Housing](https://github.com/NataliaKrajewska/Nashville_Housing)
 - <b>Tableau</b>
